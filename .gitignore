@@ -1,0 +1,4 @@
+# LO SIGUIENTE SERÁ IGNORADO POR GIT:
+local_config/
+.tmp
+.env
